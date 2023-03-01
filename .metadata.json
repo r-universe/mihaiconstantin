@@ -1,5 +1,9 @@
 [
   {
+    "package": "parabar",
+    "oncran": true
+  },
+  {
     "package": "powerly",
     "oncran": true
   }
