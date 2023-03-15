@@ -1,10 +1,10 @@
 [
   {
-    "package": "powerly",
+    "package": "parabar",
     "oncran": true
   },
   {
-    "package": "parabar",
+    "package": "powerly",
     "oncran": true
   }
 ]
