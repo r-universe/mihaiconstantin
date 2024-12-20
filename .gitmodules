@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "doParabar"]
+	path = doParabar
+	url = https://github.com/mihaiconstantin/doparabar
 [submodule "parabar"]
 	path = parabar
 	url = https://github.com/mihaiconstantin/parabar
